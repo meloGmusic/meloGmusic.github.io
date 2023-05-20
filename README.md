@@ -1,1 +1,1 @@
-Source code of meloGmusic.com (work in progress)
+Source code of https://meloGmusic.com
