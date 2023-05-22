@@ -8,7 +8,7 @@ body {
   padding: 1em 1em 0 1em;
   margin: auto;
   max-width: 42em;
-  background: #fefefe url(images/background.jpg) center top fixed no-repeat;
+  background: #fefefe url(../images/background.jpg) center top fixed no-repeat;
   background-size: cover;
 }
 
