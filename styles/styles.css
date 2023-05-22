@@ -1,11 +1,17 @@
+@font-face {
+  font-family: "Source Code Pro";
+  src: url('fonts/SourceCodePro-Light.ttf') format('truetype');
+}
+
 body {
   line-height: 1.5;
   padding: 1em 1em 0 1em;
   margin: auto;
   max-width: 42em;
   background: #fefefe url(images/background.jpg) center top fixed no-repeat;
-  background-size: auto;
+  background-size: cover;
 }
+
 
 h1 {
   padding-bottom: 0.3em;
@@ -42,7 +48,7 @@ a.social {
 
 
 #header, #title {
-  background-image: url(images/stars.jpg);
+  background-image: url(../images/stars.jpg);
   background-repeat: no-repeat;
 }
 
@@ -55,7 +61,7 @@ a.social {
   -webkit-background-clip: text;
   text-decoration: none;
   font-size: 3em;
-  font-family: "Source Code Pro Light";
+  font-family: "Source Code Pro";
   font-weight: bold;
 }
 
